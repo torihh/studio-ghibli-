@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>studio ghibli</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <h1 style="text-align: center">studio ghibli</h1>
+
+        <p> Encontramos<strong>os melhores filmes</strong>para pessoas que adoram auma aventura, romance, suspense e animação. </p>
+
+        <p style="font-size: 20px"><em>studio ghibli é um estúdio de animação japonesa <strong> criada em 15 de julho de 1985.</strong>.</em></p>
+
+        <p>Foi fundado pelo autor Hayao Miyazaki, Isao Takahata, Toshio Suzuki e Yasuyoshi Tokuma. </p>
+         
+    </body>
+</html>
