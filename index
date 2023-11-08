@@ -1,19 +1,38 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-    <head>
-        <meta charset="UTF-8">
-        <title>studio ghibli</title>
-        <link rel="stylesheet" href="style.css">
-    </head>
+	<head>
+		<meta charset="UTF-8">
+		<title>studio ghibli</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
 
-    <body>
-        <h1 style="text-align: center">studio ghibli</h1>
+	<body>
+		<header>
+			<h1 class="titulo-principal">studio ghibli</h1>
+		</header>
+		<img id="banner" src="Studio-Ghibli-Logo.webp">
+		<div class="principal">
+			<h2 class="titulo-centralizado">sobre o studio ghibli</h2>
+	 
+			<p>apresentamos <strong>o studio ghinli</strong> traz para o publico o que há de melhor para qualquer tipo de publico.conquista novos clientes a cada dia.</p>
 
-        <p> Encontramos<strong>os melhores filmes</strong>para pessoas que adoram auma aventura, romance, suspense e animação. </p>
+			<p id="missao"><em>Nossa missão é: <strong>"Proporcionar felicidade e qualidade aos nossos publicos."</strong>.</em></p>
 
-        <p style="font-size: 20px"><em>studio ghibli é um estúdio de animação japonesa <strong> criada em 15 de julho de 1985.</strong>.</em></p>
+			<p>Oferecemos filmes exelentes de auta qualidade.Studio Ghibli Inc. é estúdio de cinema de animação japonês com sede em Koganei, Tóquio. O estúdio é mais conhecido por seus filmes de animação e também produziu vários curtas, comerciais de televisão e um filme de televisão </p>
+	</p>
+		</div>
 
-        <p>Foi fundado pelo autor Hayao Miyazaki, Isao Takahata, Toshio Suzuki e Yasuyoshi Tokuma. </p>
-         
-    </body>
+		<div class="beneficios">
+			<h3 class="titulo-centralizado">Benefícios</h3>
+
+			<ul>
+				<li class="itens">animação inpecavel</li>
+				<li class="itens">aventuras,suspense,romance</li>
+				<li class="itens">colalizada na nteflix</li>
+				<li class="itens">aprendizagem</li>
+			</ul>
+
+			<img src="beneficios.jpg" class="imagembeneficios">
+		</div>
+	</body>
 </html>
