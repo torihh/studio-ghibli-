@@ -10,7 +10,7 @@
 		<header>
 			<h1 class="titulo-principal">studio ghibli</h1>
 		</header>
-		<img id="banner" src="Studio-Ghibli-Logo.webp">
+		<img id="banner" src="Studio-Ghibli-Logo.webp" height="350" width="500">
 		<div class="principal">
 			<h2 class="titulo-centralizado">sobre o studio ghibli</h2>
 	 
@@ -26,13 +26,13 @@
 			<h3 class="titulo-centralizado">Benefícios</h3>
 
 			<ul>
-				<li class="itens">animação inpecavel</li>
+				<li class="itens">animação impecavel</li>
 				<li class="itens">aventuras,suspense,romance</li>
-				<li class="itens">colalizada na nteflix</li>
+				<li class="itens">localizada na netflix</li>
 				<li class="itens">aprendizagem</li>
 			</ul>
 
-			<img src="beneficios.jpg" class="imagembeneficios">
+			<img src="Lista-03_pjIORug.jpg" height="350" width="500">
 		</div>
 	</body>
 </html>
